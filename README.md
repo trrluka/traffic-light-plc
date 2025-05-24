@@ -1,2 +1,17 @@
 # traffic-light-plc
-PLC-based traffic light system using CX-Programmer and CJ1M-CPU21
+# PLC-Based Traffic Light Control System 🚦
+
+A ladder logic project simulating a traffic light control system using CJ1M-CPU21 and CX-Programmer.
+
+## 📌 Features
+- Realistic traffic light cycle (red → yellow → green + blinking)
+- Support for visually impaired users via audible alarms
+- Timer/counter-based logic with conditional control using flags
+
+## 🛠 Technologies
+- CX-Programmer
+- Omron CJ1M-CPU21
+- Ladder Logic
+
+## 📄 Documentation
+See the `Traffic Light - Project Report.pdf` file for full details.
