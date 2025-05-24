@@ -2,6 +2,7 @@
 # PLC-Based Traffic Light Control System 🚦
 
 A ladder logic project simulating a traffic light control system using CJ1M-CPU21 and CX-Programmer.
+(PDF file is on Serbian language)
 
 ## 📌 Features
 - Realistic traffic light cycle (red → yellow → green + blinking)
