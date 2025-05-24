@@ -12,6 +12,3 @@ A ladder logic project simulating a traffic light control system using CJ1M-CPU2
 - CX-Programmer
 - Omron CJ1M-CPU21
 - Ladder Logic
-
-## 📄 Documentation
-See the `Traffic Light - Project Report.pdf` file for full details.
