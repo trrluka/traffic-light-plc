@@ -18,5 +18,4 @@ A ladder logic project simulating a traffic light control system using CJ1M-CPU2
 This project was developed in collaboration with Teodora Stojanović as part of coursework at the Faculty of Electronic Engineering, University of Niš.
 
 ## 📄 Documentation
-Full project report is available in **Serbian**: 
-📁 [`PLC project.pdf`](./PLC%20project.pdf) — Full technical documentation of the system and ladder diagram screenshots.
+Full project report is available in **Serbian**: 📁 [`PLC project.pdf`](./PLC%20project.pdf) 
